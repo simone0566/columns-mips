@@ -52,3 +52,7 @@ Use the MARS MIPS simulator.
 - `columns.asm` — game source code
 - `README.md` — project overview and setup instructions
 
+## Credits
+
+Developed by Shimeng Wang and Siyi Chen.
+
